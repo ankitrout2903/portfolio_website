@@ -21,7 +21,7 @@ const Hero = () => {
               data-aos="fade-up"
               className=" text-5xl font-bold sm:text-[2rem]"
             >
-              Hello, I'm John  Doe
+              Hello, I'm Ankit Rout
             </h2>
             <TypeAnimation
               data-aos="fade-up"
@@ -41,7 +41,7 @@ const Hero = () => {
               // data-aos="fade-up"
               className=" text-[1.1rem] font-medium w-3/4 md:w-full text-gray-600 sm:text-[.95rem]"
             >
-              Lorem ipsum dolor sit amet consectetur
+              A passionate web developer 
             </p>
           </div>
           <div data-aos="fade-up" className="buttons flex gap-5">
