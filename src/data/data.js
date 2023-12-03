@@ -12,7 +12,7 @@ export const data = [
     img: "./src/assets/leetclone.png",
     title: "Leetclone-AI",
     desc: "This is a LeetCode clone project created with Next.js, TypeScript, Tailwind CSS, OpenAI API, Firebase, Firestore, and Authentication. It allows users to practice coding problems, translate code between different programming languages, and save their solutions for reference.",
-    link: "",
+    link: "https://leetclone-ai.vercel.app/",
     git: "https://github.com/ankitrout2903/leetcolone-AI",
   },
   {
